@@ -20,7 +20,10 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+<<<<<<< HEAD
             'r_controller = hum_pkg.r_controller:main',
+=======
+>>>>>>> 77f3d32 (initial doosan packages and rviz)
         ],
     },
 )
