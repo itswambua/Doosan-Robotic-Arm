@@ -4,3 +4,4 @@
 
 # Before commit to github, remove build/ install/ and log/ directories by creating .gitignore files.
 # This prevents the large ros project files from being tracked by git
+# The doosan rviz sim updates for arm control and movements.
