@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'r_controller = hum_pkg.r_controller:main',
         ],
     },
 )
